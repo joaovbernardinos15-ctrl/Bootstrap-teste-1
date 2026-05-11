@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(to top, rgb(4, 4, 99), rgb(239, 241, 240));
+    background-image: linear-gradient(to top, #0F382A, #77AA6C);
     height: 100vh;
     background-size: cover;
     margin: 35px;
@@ -34,7 +34,7 @@ body {
     width: 300px;
 }
 .Logodelogin{
-    background-color: rgb(4, 4, 99);
+    background-color: #77AA6C;
      width: 75%;
      border-radius: 3px;
      border: solid 3px black;

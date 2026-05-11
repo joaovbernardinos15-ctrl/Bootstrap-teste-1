@@ -1,14 +1,35 @@
 .Img-1{
-    width: 50%;
+    width: 10%;
     justify-content: center;
     align-items: center;
     display: flex;
     flex-direction: column;
+    margin-bottom: 50px;
+}
+.Barra-de-tela {
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
 }
 
 .linhas {
     justify-content: center;
     display: flex;
     flex-direction: row;
-    width: 100%;
+    border: 3px;
+    background-color:  #FFFFFF;
+}
+.div1{
+    display: flex;
+    gap: 50px;
+}
+.div2 {
+    display: flex;
+    gap: 50px;
+}
+.projetos:hover {
+    color: #0F382A;
+}
+.home:hover {
+    color: #0F382A;
 }
