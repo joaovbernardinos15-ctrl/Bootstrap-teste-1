@@ -1,0 +1,7 @@
+.Img-1{
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
