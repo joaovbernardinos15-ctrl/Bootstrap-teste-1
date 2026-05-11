@@ -5,3 +5,10 @@
     display: flex;
     flex-direction: column;
 }
+
+.linhas {
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
